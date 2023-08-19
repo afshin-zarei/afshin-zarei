@@ -1,4 +1,4 @@
-### Hi there 👋
+ # Hi there! I'm Afshin Zarei👋
 
 <!--
 **AfshinZarei01/AfshinZarei01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### ⚡Github Stats
 
-<a href="https://github.com/AfshinZarei01/github-readme-stats">
+---
+
+<a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AfshinZarei01" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AfshinZarei01&layout=compact&langs_count=8&card_width=150" />
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afshinzarei01" />
 </a>
 
+---
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
