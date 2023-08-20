@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://teitter.com/afshinzarei0/">
-    <img src="https://img.shields.io/badge/Twitter-@afshinzarei0-blue?style=flat&logo=google-chrome" />
+    <img src="https://img.shields.io/badge/Twitter-@afshinzarei0-blue?style=flat&logo=Twitter" />
   </a>
   <a href="https://instagram.com/afshinzarei0/">
     <img src="https://img.shields.io/badge/Instagram-@afshinzarei0-deeppink?style=flat&logo=instagram" />
