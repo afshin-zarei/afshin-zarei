@@ -1,4 +1,4 @@
- ## Hi there! I'm Afshin Zarei👋
+ ## Hi there! I'm Afshin Zarei 👋
 
  ## 👨🏻‍💻 About me
 
