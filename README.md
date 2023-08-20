@@ -1,5 +1,11 @@
  # Hi there! I'm Afshin Zarei👋
 
+ ## About me
+
+ - ❤️ I love coding
+ - 🌱 Learning React
+ - 🔭 Literally love to challenge myself
+
 <!--
 **AfshinZarei01/AfshinZarei01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
