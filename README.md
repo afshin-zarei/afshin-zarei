@@ -7,9 +7,7 @@
  - 🔭 Literally love to challenge myself
  - 👨🏻‍🎓 Bachelor of Mathematics student from Kurdistan University
 
-<br/>
-
-<h2>🔧 &nbsp; Tech Stack</h2>
+<h2>🔧 Tech Stack</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,19 +17,17 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<br />
-
 <h2>⚡️ Github Stats</h2>
 
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AfshinZarei01" />
 </a>
+
+<br/>
+
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afshinzarei01" />
 </a>
-
-<br/>
-<br/>
 
 <h2>📞 Connct Me </h2>
 
