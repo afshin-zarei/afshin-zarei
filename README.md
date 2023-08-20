@@ -7,32 +7,9 @@
  - 🔭 Literally love to challenge myself
  - 👨🏻‍🎓 Bachelor of Mathematics student from Kurdistan University
 
-<!--
-**AfshinZarei01/AfshinZarei01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### ⚡Github Stats
-
----
-
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AfshinZarei01" />
-</a>
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afshinzarei01" />
-</a>
-
----
+<h2>🔧 &nbsp; Tech Stack</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -41,6 +18,35 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+<br />
+
+<h2>⚡️ Github Stats</h2>
+
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AfshinZarei01" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afshinzarei01" />
+</a>
+
+<br/>
+<br/>
+
+<h2>📞 Connct Me </h2>
+
+<p align="center">
+  <a href="https://teitter.com/afshinzarei0/">
+    <img src="https://img.shields.io/badge/Twitter-@afshinzarei0-blue?style=flat&logo=google-chrome" />
+  </a>
+  <a href="https://instagram.com/afshinzarei0/">
+    <img src="https://img.shields.io/badge/Instagram-@afshinzarei0-deeppink?style=flat&logo=instagram" />
+  </a>
+  <a href="https://t.me/afshinzarei01/">
+    <img src="https://img.shields.io/badge/Telegram-@afshinzarei01-blue?style=flat&logo=telegram" />
+  </a>
+</p>
+
 
 
 
