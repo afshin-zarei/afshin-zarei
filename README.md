@@ -24,6 +24,7 @@
 </a>
 
 <br/>
+<br/>
 
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afshinzarei01" />
@@ -42,16 +43,3 @@
     <img src="https://img.shields.io/badge/Telegram-@afshinzarei01-blue?style=flat&logo=telegram" />
   </a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
