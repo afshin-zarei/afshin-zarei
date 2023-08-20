@@ -32,14 +32,15 @@
 
 <h2>📞 Connct Me </h2>
 
-<p align="center">
+<p>
+ <a href="https://t.me/afshinzarei01/">
+    <img src="https://img.shields.io/badge/Telegram-@afshinzarei01-blue?style=flat&logo=telegram" />
+  </a>
   <a href="https://teitter.com/afshinzarei0/">
     <img src="https://img.shields.io/badge/Twitter-@afshinzarei0-blue?style=flat&logo=Twitter" />
   </a>
   <a href="https://instagram.com/afshinzarei0/">
     <img src="https://img.shields.io/badge/Instagram-@afshinzarei0-deeppink?style=flat&logo=instagram" />
   </a>
-  <a href="https://t.me/afshinzarei01/">
-    <img src="https://img.shields.io/badge/Telegram-@afshinzarei01-blue?style=flat&logo=telegram" />
-  </a>
+  
 </p>
