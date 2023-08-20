@@ -1,10 +1,11 @@
- # Hi there! I'm Afshin Zarei👋
+ ## Hi there! I'm Afshin Zarei👋
 
- ## About me
+ ## 👨🏻‍💻 About me
 
  - ❤️ I love coding
  - 🌱 Learning React
  - 🔭 Literally love to challenge myself
+ - 👨🏻‍🎓 Bachelor of Mathematics student from Kurdistan University
 
 <!--
 **AfshinZarei01/AfshinZarei01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
