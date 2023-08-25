@@ -19,16 +19,11 @@
 
 <h2>⚡️ Github Stats</h2>
 
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AfshinZarei01" />
-</a>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afshinzarei01&hide=contribs,prs)
 
 <br/>
-<br/>
 
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afshinzarei01" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afshinzarei01&size_weight=0.5&count_weight=0.5)
 
 <h2>📞 Connct Me </h2>
 
