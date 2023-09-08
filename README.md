@@ -29,13 +29,13 @@
 
 <p>
  <a href="https://t.me/afshinzareinet/">
-    <img src="https://img.shields.io/badge/Telegram-@afshinzarei01-blue?style=flat&logo=telegram" />
+    <img src="https://img.shields.io/badge/Telegram-@afshinzareinet-blue?style=flat&logo=telegram" />
   </a>
   <a href="https://teitter.com/afshinzareinet/">
-    <img src="https://img.shields.io/badge/Twitter-@afshinzarei0-blue?style=flat&logo=Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-@afshinzareinet-blue?style=flat&logo=Twitter" />
   </a>
   <a href="https://instagram.com/afshinzareinet/">
-    <img src="https://img.shields.io/badge/Instagram-@afshinzarei0-deeppink?style=flat&logo=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-@afshinzareinet-deeppink?style=flat&logo=instagram" />
   </a>
   
 </p>
