@@ -28,13 +28,13 @@
 <h2>📞 Connct Me </h2>
 
 <p>
- <a href="https://t.me/afshinzarei01/">
+ <a href="https://t.me/afshinzareinet/">
     <img src="https://img.shields.io/badge/Telegram-@afshinzarei01-blue?style=flat&logo=telegram" />
   </a>
-  <a href="https://teitter.com/afshinzarei0/">
+  <a href="https://teitter.com/afshinzareinet/">
     <img src="https://img.shields.io/badge/Twitter-@afshinzarei0-blue?style=flat&logo=Twitter" />
   </a>
-  <a href="https://instagram.com/afshinzarei0/">
+  <a href="https://instagram.com/afshinzareinet/">
     <img src="https://img.shields.io/badge/Instagram-@afshinzarei0-deeppink?style=flat&logo=instagram" />
   </a>
   
