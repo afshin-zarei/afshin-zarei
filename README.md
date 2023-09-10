@@ -19,11 +19,11 @@
 
 <h2>⚡️ Github Stats</h2>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afshinzarei01&hide=contribs,prs)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afshin-zarei&hide=contribs,prs)
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afshinzarei01&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afshin-zarei&size_weight=0.5&count_weight=0.5)
 
 <h2>📞 Connct Me </h2>
 
