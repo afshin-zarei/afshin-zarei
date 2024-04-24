@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/Telegram-@AfshinZareiNET-blue?style=flat&logo=telegram" />
   </a>
   <a href="https://teitter.com/afshinzareinet/">
-    <img src="https://img.shields.io/badge/Twitter-@AfshinZareiNET-blue?style=flat&logo=Twitter" />
+    <img src="https://img.shields.io/badge/X-@AfshinZareiNET-black?style=flat&logo=X" />
   </a>
   <a href="https://instagram.com/afshinzareinet/">
     <img src="https://img.shields.io/badge/Instagram-@AfshinZareiNET-deeppink?style=flat&logo=instagram" />
