@@ -2,8 +2,8 @@
 
  ## 👨🏻‍💻 About me
 
- - ❤️ I love coding
- - 🌱 Learning React
+ - ❤️ I love programing
+ - 🌱 Learning Next.js
  - 🔭 Literally love to challenge myself
  - 👨🏻‍🎓 Bachelor of Mathematics student from Kurdistan University
 
