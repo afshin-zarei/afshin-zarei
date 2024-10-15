@@ -2,7 +2,7 @@
 
  ## 👨🏻‍💻 About me
 
- - ❤️ I love programing
+ - ❤️ I love programming
  - 🌱 Learning Next.js
  - 🔭 Literally love to challenge myself
  - 👨🏻‍🎓 Bachelor of Mathematics student from Kurdistan University
